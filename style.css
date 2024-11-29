@@ -109,9 +109,10 @@ nav button{
 }
 
 .center-part2 img{
-    height: 90%;
+    height: 100%;
     position: absolute;
     right: 0;
+    margin-right: 30px;
 }
 
 .section1bottom{

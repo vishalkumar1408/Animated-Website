@@ -44,7 +44,6 @@ function midPageAnimation(){
         scrollTrigger:{
             trigger:"#page2",
             scroller:"body",
-            // markers:true,
             start:"top 0%",
             end:"top -150%",
             scrub:true,
